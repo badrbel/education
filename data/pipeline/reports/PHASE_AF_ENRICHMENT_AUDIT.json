@@ -1,0 +1,117 @@
+{
+  "timestamp": "2026-09-23T00:21:09.213Z",
+  "phase": "PHASE AF-ENRICHMENT",
+  "status": "COMPLETED_SUCCESSFULLY",
+  "zeroEmojiVerified": true,
+  "fourAmIntegrity": {
+    "tampered": false,
+    "registry_4am_sha256": "706eab143bb0d1f314eee8920a38c3e35900f0840f973f664ec08310258f9b32",
+    "four_am_sha256": "bc27ff2d0c94626b37140dd93b164d4252878125eda68ecfeb37a8fef0f6e216",
+    "matchesBaseline": true
+  },
+  "registryMetrics": {
+    "before": 589,
+    "after": 893,
+    "netAdded": 304
+  },
+  "videoMetricsSubjectFiles": {
+    "beforeTotal": 995,
+    "afterTotal": 1072,
+    "netAdded": 77,
+    "bySubject": {
+      "اللغة العربية": {
+        "before": 331,
+        "after": 348,
+        "netAdded": 17
+      },
+      "الفلسفة": {
+        "before": 113,
+        "after": 113,
+        "netAdded": 0
+      },
+      "التاريخ والجغرافيا": {
+        "before": 150,
+        "after": 170,
+        "netAdded": 20
+      },
+      "العلوم الإسلامية": {
+        "before": 120,
+        "after": 120,
+        "netAdded": 0
+      },
+      "اللغة الفرنسية": {
+        "before": 135,
+        "after": 135,
+        "netAdded": 0
+      },
+      "اللغة الإنجليزية": {
+        "before": 117,
+        "after": 157,
+        "netAdded": 40
+      },
+      "الرياضيات": {
+        "before": 29,
+        "after": 29,
+        "netAdded": 0
+      }
+    }
+  },
+  "gapMatrix": {
+    "before": {
+      "FULL": 0,
+      "PARTIAL": 135,
+      "GENERAL_ONLY": 2,
+      "NO_VERIFIED_RESOURCE_FOUND": 0,
+      "NEEDS_MANUAL_REVIEW": 0
+    },
+    "after": {
+      "FULL": 9,
+      "PARTIAL": 128,
+      "GENERAL_ONLY": 0,
+      "NO_VERIFIED_RESOURCE_FOUND": 0,
+      "NEEDS_MANUAL_REVIEW": 0
+    }
+  },
+  "targetedTeachers": {
+    "abuBakrMabrouk": {
+      "found": 63,
+      "verifiedAccepted": 32,
+      "rejected": 31,
+      "rejectionReasons": {
+        "middleSchoolLeakBem": 4,
+        "unrelatedOrShortOrDuplicate": 27
+      }
+    },
+    "atiyaSouissi": {
+      "found": 60,
+      "verifiedAccepted": 26,
+      "rejected": 34,
+      "rejectionReasons": {
+        "middleSchoolLeakBem": 0,
+        "unrelatedOrDuplicateOrLowEngagement": 34
+      }
+    }
+  },
+  "dedicatedCategories": {
+    "geographicalTerms": 66,
+    "historicalFigures": 53
+  },
+  "dzExamsHarvesting": {
+    "totalHarvested": 720,
+    "curatedAndIngested": 87
+  },
+  "unlinkedReconciled": 9,
+  "youtubePlayerContract": {
+    "searchUrlsFound": 0,
+    "invalidIdsFound": 0,
+    "non11CharIdsFound": 0,
+    "totalVideosAudited": 1269,
+    "complianceRate": "100%"
+  },
+  "testSuites": {
+    "totalSuites": 17,
+    "passedSuites": 17,
+    "failedSuites": 0,
+    "successRate": "100%"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "phase": "PHASE 11.8",
+  "scope": "4AM ONLY - ZERO 3AS IMPACT",
+  "auditDate": "2026-09-22",
+  "executiveSummary": {
+    "totalFourAmVideos": 668,
+    "totalRegistryVideos": 821,
+    "totalDirectValidVideos": 668,
+    "searchUrlsInData": 0,
+    "searchUrlsInPlayerBefore": "Dynamic fallback in app.js for 151 videos with id-only",
+    "searchUrlsInPlayerAfter": 0,
+    "videosRepaired": 151,
+    "videosDeleted": 0,
+    "playerError2Eliminated": true,
+    "all16TestSuitesPassing": true,
+    "threeAsCryptoLockVerified": true
+  },
+  "civicsSpecialCase": {
+    "title": "أقوووى شرح لدرس الصلح والوساطة |. #bem2024",
+    "teacher": "الأستاذ ڨسوم شعيب",
+    "videoId": "_IKV73BT6rQ",
+    "youtubeId": "_IKV73BT6rQ",
+    "url": "https://www.youtube.com/watch?v=_IKV73BT6rQ",
+    "views": "329 الف مشاهدة",
+    "viewCount": 329479,
+    "status": "REPAIRED_AND_VERIFIED",
+    "subject": "civics_4am",
+    "lesson": "الصلح والوساطة الاجتماعية",
+    "rootCause": "Video object previously had id without youtubeId or url; resolveVideoUrls ignored id and fell back to search_query URL."
+  },
+  "subjectBreakdown": {
+    "الرياضيات": {
+      "lessons": 14,
+      "totalVideos": 145,
+      "repairedFromIdOnly": 33,
+      "alreadyComplete": 112,
+      "finalStatus": "100% DIRECT_VALID"
+    },
+    "اللغة العربية": {
+      "lessons": 28,
+      "totalVideos": 107,
+      "repairedFromIdOnly": 20,
+      "alreadyComplete": 87,
+      "finalStatus": "100% DIRECT_VALID"
+    },
+    "اللغة الفرنسية": {
+      "lessons": 9,
+      "totalVideos": 29,
+      "repairedFromIdOnly": 0,
+      "alreadyComplete": 29,
+      "finalStatus": "100% DIRECT_VALID"
+    },
+    "اللغة الإنجليزية": {
+      "lessons": 22,
+      "totalVideos": 67,
+      "repairedFromIdOnly": 13,
+      "alreadyComplete": 54,
+      "finalStatus": "100% DIRECT_VALID"
+    },
+    "العلوم الفيزيائية والتكنولوجيا": {
+      "lessons": 16,
+      "totalVideos": 61,
+      "repairedFromIdOnly": 20,
+      "alreadyComplete": 41,
+      "finalStatus": "100% DIRECT_VALID"
+    },
+    "علوم الطبيعة والحياة": {
+      "lessons": 13,
+      "totalVideos": 97,
+      "repairedFromIdOnly": 18,
+      "alreadyComplete": 79,
+      "finalStatus": "100% DIRECT_VALID"
+    },
+    "التاريخ والجغرافيا": {
+      "lessons": 17,
+      "totalVideos": 65,
+      "repairedFromIdOnly": 20,
+      "alreadyComplete": 45,
+      "finalStatus": "100% DIRECT_VALID"
+    },
+    "التربية الإسلامية": {
+      "lessons": 15,
+      "totalVideos": 61,
+      "repairedFromIdOnly": 17,
+      "alreadyComplete": 44,
+      "finalStatus": "100% DIRECT_VALID"
+    },
+    "التربية المدنية": {
+      "lessons": 10,
+      "totalVideos": 36,
+      "repairedFromIdOnly": 10,
+      "alreadyComplete": 26,
+      "finalStatus": "100% DIRECT_VALID"
+    }
+  },
+  "playerSafetyContract": {
+    "extractYouTubeId": "Enhanced regex supporting watch, embed, shorts, youtu.be, and stripping query parameters. Explicitly rejects search_query and non-11-character strings.",
+    "resolveVideoUrls": "Reads youtubeId, videoId, id, url, sourceUrl in order. Eliminates getYouTubeSearchUrl fallback. Returns empty string watchUrl/embedUrl if unresolvable.",
+    "playYouTubeEmbed": "Requires strict 11-char regex test /^[a-zA-Z0-9_-]{11}$/. Refuses to assign iframe.src if invalid, preventing Error 2."
+  },
+  "cryptoVerification3AS": {
+    "filesChecked": [
+      "data/registry.js",
+      "data/math.js",
+      "data/arabic.js",
+      "data/french.js",
+      "data/english.js",
+      "data/history.js",
+      "data/islamic.js"
+    ],
+    "status": "100% UNTOUCHED_AND_IDENTICAL"
+  },
+  "backupFiles": [
+    "data/four_am.backup_phase11_8.js",
+    "data/registry_4am.backup_phase11_8.js"
+  ]
+}

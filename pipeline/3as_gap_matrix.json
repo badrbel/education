@@ -1,0 +1,1652 @@
+{
+  "statusCounts": {
+    "FULL": 67,
+    "PARTIAL": 68,
+    "GENERAL_ONLY": 0,
+    "NO_VERIFIED_RESOURCE_FOUND": 2,
+    "NEEDS_MANUAL_REVIEW": 0
+  },
+  "gapMatrix": [
+    {
+      "subjectId": "philosophy",
+      "subjectName": "الفلسفة",
+      "lessonId": "philo_3as_lp_01",
+      "lessonTitle": "الإحساس والإدراك",
+      "videos": 33,
+      "exercises": 2,
+      "registryLinked": 2,
+      "registryBreakdown": {
+        "exercise": 2
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "philosophy",
+      "subjectName": "الفلسفة",
+      "lessonId": "philo_3as_lp_02",
+      "lessonTitle": "اللغة والفكر",
+      "videos": 40,
+      "exercises": 2,
+      "registryLinked": 2,
+      "registryBreakdown": {
+        "exercise": 2
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "philosophy",
+      "subjectName": "الفلسفة",
+      "lessonId": "philo_3as_lp_03",
+      "lessonTitle": "الشعور واللاشعور",
+      "videos": 1,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "philosophy",
+      "subjectName": "الفلسفة",
+      "lessonId": "philo_3as_lp_04",
+      "lessonTitle": "الذاكرة والخيال",
+      "videos": 1,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "philosophy",
+      "subjectName": "الفلسفة",
+      "lessonId": "philo_3as_lp_05",
+      "lessonTitle": "العادة والإرادة",
+      "videos": 30,
+      "exercises": 3,
+      "registryLinked": 3,
+      "registryBreakdown": {
+        "exercise": 3
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "philosophy",
+      "subjectName": "الفلسفة",
+      "lessonId": "philo_3as_lp_06",
+      "lessonTitle": "الأخلاق بين الثوابت والمتغيرات",
+      "videos": 1,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "philosophy",
+      "subjectName": "الفلسفة",
+      "lessonId": "philo_3as_lp_07",
+      "lessonTitle": "الحقوق والواجبات والعدل",
+      "videos": 1,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "philosophy",
+      "subjectName": "الفلسفة",
+      "lessonId": "philo_3as_lp_08",
+      "lessonTitle": "الحرية والمسؤولية",
+      "videos": 1,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "philosophy",
+      "subjectName": "الفلسفة",
+      "lessonId": "philo_3as_lp_09",
+      "lessonTitle": "العلاقات الأسرية والحياة الاقتصادية والسياسية",
+      "videos": 1,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "philosophy",
+      "subjectName": "الفلسفة",
+      "lessonId": "philo_3as_lp_10",
+      "lessonTitle": "العنف والتسامح",
+      "videos": 1,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "philosophy",
+      "subjectName": "الفلسفة",
+      "lessonId": "philo_3as_lp_11",
+      "lessonTitle": "فلسفة الرياضيات",
+      "videos": 1,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "philosophy",
+      "subjectName": "الفلسفة",
+      "lessonId": "philo_3as_lp_12",
+      "lessonTitle": "علوم المادة الجامدة وعلوم المادة الحية",
+      "videos": 1,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "philosophy",
+      "subjectName": "الفلسفة",
+      "lessonId": "philo_3as_lp_13",
+      "lessonTitle": "العلوم الإنسانية",
+      "videos": 1,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-01",
+      "lessonTitle": "الهمزة المزيدة في أول الأمر",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-02",
+      "lessonTitle": "معاني حروف الجر",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-03",
+      "lessonTitle": "معاني حروف العطف",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-04",
+      "lessonTitle": "تصريف الأجوف",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-05",
+      "lessonTitle": "إذَا، إذًا، إذْ، حينئذ",
+      "videos": 8,
+      "exercises": 2,
+      "registryLinked": 2,
+      "registryBreakdown": {
+        "exercise": 2
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-06",
+      "lessonTitle": "تصريف الناقص",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-07",
+      "lessonTitle": "تصريف اللفيف",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-08",
+      "lessonTitle": "الخبر وأنواعه",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-09",
+      "lessonTitle": "الجمل التي لا محل لها من الإعراب",
+      "videos": 8,
+      "exercises": 4,
+      "registryLinked": 4,
+      "registryBreakdown": {
+        "exercise": 4
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-10",
+      "lessonTitle": "معاني الأحرف المشبهة بالفعل",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-11",
+      "lessonTitle": "أحكام التمييز و الحال",
+      "videos": 8,
+      "exercises": 2,
+      "registryLinked": 2,
+      "registryBreakdown": {
+        "exercise": 2
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-12",
+      "lessonTitle": "البدل و عطف البيان",
+      "videos": 7,
+      "exercises": 2,
+      "registryLinked": 2,
+      "registryBreakdown": {
+        "exercise": 2
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-13",
+      "lessonTitle": "لو ، لولا ، لوما",
+      "videos": 8,
+      "exercises": 1,
+      "registryLinked": 1,
+      "registryBreakdown": {
+        "exercise": 1
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-14",
+      "lessonTitle": "اسم الجمع",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-15",
+      "lessonTitle": "اسم الجنس الإفرادي و الجمعي",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-16",
+      "lessonTitle": "المتعدي إلى أكثر من مفعول",
+      "videos": 8,
+      "exercises": 2,
+      "registryLinked": 2,
+      "registryBreakdown": {
+        "exercise": 2
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-17",
+      "lessonTitle": "نونا التوكيد",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-18",
+      "lessonTitle": "نون الوقاية",
+      "videos": 8,
+      "exercises": 1,
+      "registryLinked": 1,
+      "registryBreakdown": {
+        "exercise": 1
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-19",
+      "lessonTitle": "بلاغة المجاز المرسل و المجاز العقلي",
+      "videos": 8,
+      "exercises": 4,
+      "registryLinked": 4,
+      "registryBreakdown": {
+        "exercise": 4
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-20",
+      "lessonTitle": "التشبيه",
+      "videos": 8,
+      "exercises": 1,
+      "registryLinked": 1,
+      "registryBreakdown": {
+        "exercise": 1
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-21",
+      "lessonTitle": "الإستعارة",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-22",
+      "lessonTitle": "الكناية و بلاغتها",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-23",
+      "lessonTitle": "إعراب المعتل الآخر",
+      "videos": 8,
+      "exercises": 4,
+      "registryLinked": 4,
+      "registryBreakdown": {
+        "exercise": 4
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-24",
+      "lessonTitle": "الفضلة و إعرابها",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-25",
+      "lessonTitle": "كم، كأين ، كذا ، أمّا ، إمّا",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-26",
+      "lessonTitle": "إي ، أي، إِيْ",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-27",
+      "lessonTitle": "التضمين و التناص",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-28",
+      "lessonTitle": "بحر الرمل",
+      "videos": 7,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-29",
+      "lessonTitle": "نشأة الشعر الحرّ",
+      "videos": 8,
+      "exercises": 1,
+      "registryLinked": 1,
+      "registryBreakdown": {
+        "exercise": 1
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-30",
+      "lessonTitle": "الكامل في الشعر الحرّ",
+      "videos": 8,
+      "exercises": 1,
+      "registryLinked": 1,
+      "registryBreakdown": {
+        "exercise": 1
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-31",
+      "lessonTitle": "بحر الرجز",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-32",
+      "lessonTitle": "الهزج في الشعر الحرّ",
+      "videos": 8,
+      "exercises": 1,
+      "registryLinked": 1,
+      "registryBreakdown": {
+        "exercise": 1
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-33",
+      "lessonTitle": "البحر المتقارب",
+      "videos": 7,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-34",
+      "lessonTitle": "البحر المتدارك",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-35",
+      "lessonTitle": "جموع القلة وقياسها",
+      "videos": 7,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-36",
+      "lessonTitle": "صيغ منتهى الجموع وقياسها",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-37",
+      "lessonTitle": "البحر الوافر",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-38",
+      "lessonTitle": "الإعراب اللفظي و الإعراب التقديري",
+      "videos": 8,
+      "exercises": 3,
+      "registryLinked": 3,
+      "registryBreakdown": {
+        "exercise": 3
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-39",
+      "lessonTitle": "إعراب المضاف إلى ياء المتكلم",
+      "videos": 8,
+      "exercises": 4,
+      "registryLinked": 4,
+      "registryBreakdown": {
+        "exercise": 4
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-40",
+      "lessonTitle": "إعراب المسند و المسند إليه",
+      "videos": 8,
+      "exercises": 4,
+      "registryLinked": 4,
+      "registryBreakdown": {
+        "exercise": 4
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-41",
+      "lessonTitle": "الجمل التي لها محل من الإعراب",
+      "videos": 8,
+      "exercises": 4,
+      "registryLinked": 4,
+      "registryBreakdown": {
+        "exercise": 4
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية",
+      "lessonId": "arabic-42",
+      "lessonTitle": "دروس البناء الفكري",
+      "videos": 7,
+      "exercises": 4,
+      "registryLinked": 4,
+      "registryBreakdown": {
+        "exercise": 4
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "history",
+      "subjectName": "التاريخ والجغرافيا",
+      "lessonId": "history-01",
+      "lessonTitle": "بروز الصراع وتشكل العالم",
+      "videos": 8,
+      "exercises": 4,
+      "registryLinked": 4,
+      "registryBreakdown": {
+        "exercise": 4
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "history",
+      "subjectName": "التاريخ والجغرافيا",
+      "lessonId": "history-02",
+      "lessonTitle": "الازمات الدولية في ظل الصراع بين الشرق والغرب",
+      "videos": 8,
+      "exercises": 4,
+      "registryLinked": 4,
+      "registryBreakdown": {
+        "exercise": 4
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "history",
+      "subjectName": "التاريخ والجغرافيا",
+      "lessonId": "history-03",
+      "lessonTitle": "مساعي الانفراج الدولي",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "history",
+      "subjectName": "التاريخ والجغرافيا",
+      "lessonId": "history-04",
+      "lessonTitle": "من الثنائية إلى الأحادية القطبية",
+      "videos": 8,
+      "exercises": 4,
+      "registryLinked": 4,
+      "registryBreakdown": {
+        "exercise": 4
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "history",
+      "subjectName": "التاريخ والجغرافيا",
+      "lessonId": "history-05",
+      "lessonTitle": "من تبلور الوعي الوطني الجزائري إلى الثورة التحريرية",
+      "videos": 8,
+      "exercises": 4,
+      "registryLinked": 4,
+      "registryBreakdown": {
+        "exercise": 4
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "history",
+      "subjectName": "التاريخ والجغرافيا",
+      "lessonId": "history-06",
+      "lessonTitle": "العمل المسلح ورد فعل الاستعمار(الثورة التحريرية الكبرى ورد فعل الاستعمار)",
+      "videos": 8,
+      "exercises": 4,
+      "registryLinked": 4,
+      "registryBreakdown": {
+        "exercise": 4
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "history",
+      "subjectName": "التاريخ والجغرافيا",
+      "lessonId": "history-07",
+      "lessonTitle": "استعادة السيادة الوطنية وبناء الدولة الجزائرية",
+      "videos": 8,
+      "exercises": 3,
+      "registryLinked": 3,
+      "registryBreakdown": {
+        "exercise": 3
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "history",
+      "subjectName": "التاريخ والجغرافيا",
+      "lessonId": "history-08",
+      "lessonTitle": "تأثير الجزائر وإسهامها في حركة التحرر",
+      "videos": 8,
+      "exercises": 4,
+      "registryLinked": 4,
+      "registryBreakdown": {
+        "exercise": 4
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "history",
+      "subjectName": "التاريخ والجغرافيا",
+      "lessonId": "history-09",
+      "lessonTitle": "العالم الثالث بين تراجع الاستعمار التقليدي واستمرارية حركات التحرر",
+      "videos": 8,
+      "exercises": 4,
+      "registryLinked": 4,
+      "registryBreakdown": {
+        "exercise": 4
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "history",
+      "subjectName": "التاريخ والجغرافيا",
+      "lessonId": "history-10",
+      "lessonTitle": "فلسطين من تصفية الاستعمار التقليدي إلى الهيمنة الأحادية والتواطؤ الدولي",
+      "videos": 8,
+      "exercises": 3,
+      "registryLinked": 3,
+      "registryBreakdown": {
+        "exercise": 3
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "history",
+      "subjectName": "التاريخ والجغرافيا",
+      "lessonId": "history-11",
+      "lessonTitle": "إشكالية التقدم والتخلف",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "history",
+      "subjectName": "التاريخ والجغرافيا",
+      "lessonId": "history-12",
+      "lessonTitle": "المبادلات والتنقلات في العالم",
+      "videos": 8,
+      "exercises": 4,
+      "registryLinked": 4,
+      "registryBreakdown": {
+        "exercise": 4
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "history",
+      "subjectName": "التاريخ والجغرافيا",
+      "lessonId": "history-13",
+      "lessonTitle": "مصادر القوة الاقتصادية الامريكية وتأثيرها على الاقتصاد",
+      "videos": 8,
+      "exercises": 4,
+      "registryLinked": 4,
+      "registryBreakdown": {
+        "exercise": 4
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "history",
+      "subjectName": "التاريخ والجغرافيا",
+      "lessonId": "history-14",
+      "lessonTitle": "ظاهرة التكتل و أثرها في قوة الاتحاد",
+      "videos": 6,
+      "exercises": 1,
+      "registryLinked": 1,
+      "registryBreakdown": {
+        "exercise": 1
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "history",
+      "subjectName": "التاريخ والجغرافيا",
+      "lessonId": "history-15",
+      "lessonTitle": "العلاقة بين السكان والتنمية في شرق وجنوب شرق آسيا",
+      "videos": 8,
+      "exercises": 4,
+      "registryLinked": 4,
+      "registryBreakdown": {
+        "exercise": 4
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "history",
+      "subjectName": "التاريخ والجغرافيا",
+      "lessonId": "history-16",
+      "lessonTitle": "الاقتصاد الجزائري في العالم",
+      "videos": 8,
+      "exercises": 4,
+      "registryLinked": 4,
+      "registryBreakdown": {
+        "exercise": 4
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "history",
+      "subjectName": "التاريخ والجغرافيا",
+      "lessonId": "history-17",
+      "lessonTitle": "الجزائر في البحر المتوسط",
+      "videos": 8,
+      "exercises": 4,
+      "registryLinked": 4,
+      "registryBreakdown": {
+        "exercise": 4
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "history",
+      "subjectName": "التاريخ والجغرافيا",
+      "lessonId": "history-18",
+      "lessonTitle": "السكان والتنمية في الهند",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "history",
+      "subjectName": "التاريخ والجغرافيا",
+      "lessonId": "history-19",
+      "lessonTitle": "واقع التنمية في البرازيل",
+      "videos": 8,
+      "exercises": 4,
+      "registryLinked": 4,
+      "registryBreakdown": {
+        "exercise": 4
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "islamic",
+      "subjectName": "العلوم الإسلامية",
+      "lessonId": "islamic-01",
+      "lessonTitle": "العقيدة الاسلامية وأثرها على الفرد والمجتمع",
+      "videos": 8,
+      "exercises": 13,
+      "registryLinked": 13,
+      "registryBreakdown": {
+        "exercise": 13
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "islamic",
+      "subjectName": "العلوم الإسلامية",
+      "lessonId": "islamic-02",
+      "lessonTitle": "وسائل القرآن الكريم في تثبيت العقيدة الاسالمية",
+      "videos": 8,
+      "exercises": 7,
+      "registryLinked": 7,
+      "registryBreakdown": {
+        "exercise": 7
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "islamic",
+      "subjectName": "العلوم الإسلامية",
+      "lessonId": "islamic-03",
+      "lessonTitle": "الاسلام والرسالات السماوية",
+      "videos": 8,
+      "exercises": 8,
+      "registryLinked": 8,
+      "registryBreakdown": {
+        "exercise": 8
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "islamic",
+      "subjectName": "العلوم الإسلامية",
+      "lessonId": "islamic-04",
+      "lessonTitle": "العقل في القرآن الكريم",
+      "videos": 8,
+      "exercises": 5,
+      "registryLinked": 5,
+      "registryBreakdown": {
+        "exercise": 5
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "islamic",
+      "subjectName": "العلوم الإسلامية",
+      "lessonId": "islamic-05",
+      "lessonTitle": "مقاصد الشريعة الاسلامية",
+      "videos": 8,
+      "exercises": 8,
+      "registryLinked": 8,
+      "registryBreakdown": {
+        "exercise": 8
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "islamic",
+      "subjectName": "العلوم الإسلامية",
+      "lessonId": "islamic-06",
+      "lessonTitle": "منهج الاسلام في محاربة الانحراف والجريمة",
+      "videos": 8,
+      "exercises": 7,
+      "registryLinked": 7,
+      "registryBreakdown": {
+        "exercise": 7
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "islamic",
+      "subjectName": "العلوم الإسلامية",
+      "lessonId": "islamic-07",
+      "lessonTitle": "المساواة أمام أحكام الشّريعة الاسلامية",
+      "videos": 8,
+      "exercises": 6,
+      "registryLinked": 6,
+      "registryBreakdown": {
+        "exercise": 6
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "islamic",
+      "subjectName": "العلوم الإسلامية",
+      "lessonId": "islamic-08",
+      "lessonTitle": "الصحة النفسية والجسمية في القرآن الكريم",
+      "videos": 8,
+      "exercises": 7,
+      "registryLinked": 7,
+      "registryBreakdown": {
+        "exercise": 7
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "islamic",
+      "subjectName": "العلوم الإسلامية",
+      "lessonId": "islamic-09",
+      "lessonTitle": "من مصادر التشريع الاسلامي: الاجماع/القياس/المصالح المرسلة",
+      "videos": 8,
+      "exercises": 11,
+      "registryLinked": 11,
+      "registryBreakdown": {
+        "exercise": 11
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "islamic",
+      "subjectName": "العلوم الإسلامية",
+      "lessonId": "islamic-10",
+      "lessonTitle": "القيم في القرآن الكريم",
+      "videos": 8,
+      "exercises": 7,
+      "registryLinked": 7,
+      "registryBreakdown": {
+        "exercise": 7
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "islamic",
+      "subjectName": "العلوم الإسلامية",
+      "lessonId": "islamic-11",
+      "lessonTitle": "الوقف في الاسلام",
+      "videos": 8,
+      "exercises": 7,
+      "registryLinked": 7,
+      "registryBreakdown": {
+        "exercise": 7
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "islamic",
+      "subjectName": "العلوم الإسلامية",
+      "lessonId": "islamic-12",
+      "lessonTitle": "من أحكام الاسرة في إلاسلام: مدخل إلى علم الميراث",
+      "videos": 8,
+      "exercises": 13,
+      "registryLinked": 13,
+      "registryBreakdown": {
+        "exercise": 13
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "islamic",
+      "subjectName": "العلوم الإسلامية",
+      "lessonId": "islamic-13",
+      "lessonTitle": "الربا وأحكامه",
+      "videos": 8,
+      "exercises": 5,
+      "registryLinked": 5,
+      "registryBreakdown": {
+        "exercise": 5
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "islamic",
+      "subjectName": "العلوم الإسلامية",
+      "lessonId": "islamic-14",
+      "lessonTitle": "من المعاملات المالية الجائزة: (بيع الصرف - بيع المرابحة- بيع التّقسيط)",
+      "videos": 8,
+      "exercises": 5,
+      "registryLinked": 5,
+      "registryBreakdown": {
+        "exercise": 5
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "islamic",
+      "subjectName": "العلوم الإسلامية",
+      "lessonId": "islamic-15",
+      "lessonTitle": "الحرية الشخصية",
+      "videos": 8,
+      "exercises": 3,
+      "registryLinked": 3,
+      "registryBreakdown": {
+        "exercise": 3
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "french",
+      "subjectName": "اللغة الفرنسية",
+      "lessonId": "french-01",
+      "lessonTitle": "Le champ lexical",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "french",
+      "subjectName": "اللغة الفرنسية",
+      "lessonId": "french-02",
+      "lessonTitle": "Les visées communicatives",
+      "videos": 8,
+      "exercises": 1,
+      "registryLinked": 1,
+      "registryBreakdown": {
+        "exercise": 1
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "french",
+      "subjectName": "اللغة الفرنسية",
+      "lessonId": "french-03",
+      "lessonTitle": "La nominalisation",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "french",
+      "subjectName": "اللغة الفرنسية",
+      "lessonId": "french-04",
+      "lessonTitle": "L'objectivité et la subjectivité",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "french",
+      "subjectName": "اللغة الفرنسية",
+      "lessonId": "french-05",
+      "lessonTitle": "Le discours direct et le discours indirect",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "french",
+      "subjectName": "اللغة الفرنسية",
+      "lessonId": "french-06",
+      "lessonTitle": "les temps du récit",
+      "videos": 8,
+      "exercises": 1,
+      "registryLinked": 1,
+      "registryBreakdown": {
+        "exercise": 1
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "french",
+      "subjectName": "اللغة الفرنسية",
+      "lessonId": "french-07",
+      "lessonTitle": "les procedes explicatif",
+      "videos": 8,
+      "exercises": 1,
+      "registryLinked": 1,
+      "registryBreakdown": {
+        "exercise": 1
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "french",
+      "subjectName": "اللغة الفرنسية",
+      "lessonId": "french-08",
+      "lessonTitle": "les verbe d'opinion",
+      "videos": 8,
+      "exercises": 1,
+      "registryLinked": 1,
+      "registryBreakdown": {
+        "exercise": 1
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "french",
+      "subjectName": "اللغة الفرنسية",
+      "lessonId": "french-09",
+      "lessonTitle": "La question synthèse / réflexion",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "french",
+      "subjectName": "اللغة الفرنسية",
+      "lessonId": "french-10",
+      "lessonTitle": "l'opposition et la concession",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "french",
+      "subjectName": "اللغة الفرنسية",
+      "lessonId": "french-11",
+      "lessonTitle": "les verbes de (modalités/ performatifs )",
+      "videos": 8,
+      "exercises": 1,
+      "registryLinked": 1,
+      "registryBreakdown": {
+        "exercise": 1
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "french",
+      "subjectName": "اللغة الفرنسية",
+      "lessonId": "french-12",
+      "lessonTitle": "L'impératif",
+      "videos": 7,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "french",
+      "subjectName": "اللغة الفرنسية",
+      "lessonId": "french-13",
+      "lessonTitle": "Le subjonctif",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "french",
+      "subjectName": "اللغة الفرنسية",
+      "lessonId": "french-14",
+      "lessonTitle": "Les rapports logiques",
+      "videos": 8,
+      "exercises": 1,
+      "registryLinked": 1,
+      "registryBreakdown": {
+        "exercise": 1
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "french",
+      "subjectName": "اللغة الفرنسية",
+      "lessonId": "french-15",
+      "lessonTitle": "Le conditionnel présent",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "french",
+      "subjectName": "اللغة الفرنسية",
+      "lessonId": "french-16",
+      "lessonTitle": "Les substituts lexicaux et grammaticaux",
+      "videos": 8,
+      "exercises": 1,
+      "registryLinked": 1,
+      "registryBreakdown": {
+        "exercise": 1
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "french",
+      "subjectName": "اللغة الفرنسية",
+      "lessonId": "french-17",
+      "lessonTitle": "La voix active et la voix passive",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "english",
+      "subjectName": "اللغة الإنجليزية",
+      "lessonId": "english-01",
+      "lessonTitle": "Providing that / Provided that / As long as",
+      "videos": 8,
+      "exercises": 1,
+      "registryLinked": 1,
+      "registryBreakdown": {
+        "exercise": 1
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "english",
+      "subjectName": "اللغة الإنجليزية",
+      "lessonId": "english-02",
+      "lessonTitle": "If conditionals",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "english",
+      "subjectName": "اللغة الإنجليزية",
+      "lessonId": "english-03",
+      "lessonTitle": "It is time / It is about time / It is high time",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "english",
+      "subjectName": "اللغة الإنجليزية",
+      "lessonId": "english-04",
+      "lessonTitle": "Expressing Wishes and Regrets",
+      "videos": 7,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "english",
+      "subjectName": "اللغة الإنجليزية",
+      "lessonId": "english-05",
+      "lessonTitle": "Expressing Advice",
+      "videos": 3,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "english",
+      "subjectName": "اللغة الإنجليزية",
+      "lessonId": "english-06",
+      "lessonTitle": "Expressing Result: So ... that / Such ...that",
+      "videos": 8,
+      "exercises": 1,
+      "registryLinked": 1,
+      "registryBreakdown": {
+        "exercise": 1
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "english",
+      "subjectName": "اللغة الإنجليزية",
+      "lessonId": "english-07",
+      "lessonTitle": "Expressing cause",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "english",
+      "subjectName": "اللغة الإنجليزية",
+      "lessonId": "english-08",
+      "lessonTitle": "Passive / active Voice",
+      "videos": 7,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "english",
+      "subjectName": "اللغة الإنجليزية",
+      "lessonId": "english-09",
+      "lessonTitle": "Modals verbs",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "english",
+      "subjectName": "اللغة الإنجليزية",
+      "lessonId": "english-10",
+      "lessonTitle": "Prefixes , Suffixes",
+      "videos": 2,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "english",
+      "subjectName": "اللغة الإنجليزية",
+      "lessonId": "english-11",
+      "lessonTitle": "Gerund",
+      "videos": 3,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "english",
+      "subjectName": "اللغة الإنجليزية",
+      "lessonId": "english-12",
+      "lessonTitle": "Tenses (present continuous, past continuous, present perfect, ....)",
+      "videos": 3,
+      "exercises": 1,
+      "registryLinked": 1,
+      "registryBreakdown": {
+        "exercise": 1
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "english",
+      "subjectName": "اللغة الإنجليزية",
+      "lessonId": "english-13",
+      "lessonTitle": "Concession / Contrast",
+      "videos": 2,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "english",
+      "subjectName": "اللغة الإنجليزية",
+      "lessonId": "english-14",
+      "lessonTitle": "Used to / Used for",
+      "videos": 5,
+      "exercises": 2,
+      "registryLinked": 2,
+      "registryBreakdown": {
+        "exercise": 2
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "english",
+      "subjectName": "اللغة الإنجليزية",
+      "lessonId": "english-15",
+      "lessonTitle": "Unless",
+      "videos": 1,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "english",
+      "subjectName": "اللغة الإنجليزية",
+      "lessonId": "english-16",
+      "lessonTitle": "Similarity and Contrast",
+      "videos": 1,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "english",
+      "subjectName": "اللغة الإنجليزية",
+      "lessonId": "english-17",
+      "lessonTitle": "Superlative / Comparative",
+      "videos": 2,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "english",
+      "subjectName": "اللغة الإنجليزية",
+      "lessonId": "english-18",
+      "lessonTitle": "Quantifiers",
+      "videos": 0,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "NO_VERIFIED_RESOURCE_FOUND"
+    },
+    {
+      "subjectId": "english",
+      "subjectName": "اللغة الإنجليزية",
+      "lessonId": "english-19",
+      "lessonTitle": "Final /s/ and Final /ed",
+      "videos": 4,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "english",
+      "subjectName": "اللغة الإنجليزية",
+      "lessonId": "english-20",
+      "lessonTitle": "Forming verbs / nouns / adjectives",
+      "videos": 5,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "english",
+      "subjectName": "اللغة الإنجليزية",
+      "lessonId": "english-21",
+      "lessonTitle": "Word stress",
+      "videos": 6,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "english",
+      "subjectName": "اللغة الإنجليزية",
+      "lessonId": "english-22",
+      "lessonTitle": "Syllables",
+      "videos": 0,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "NO_VERIFIED_RESOURCE_FOUND"
+    },
+    {
+      "subjectId": "english",
+      "subjectName": "اللغة الإنجليزية",
+      "lessonId": "english-23",
+      "lessonTitle": "Reported speech",
+      "videos": 8,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "english",
+      "subjectName": "اللغة الإنجليزية",
+      "lessonId": "english-24",
+      "lessonTitle": "Unit 1: Ancient Civilizations",
+      "videos": 1,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "english",
+      "subjectName": "اللغة الإنجليزية",
+      "lessonId": "english-25",
+      "lessonTitle": "Unit 2: Ill-Gotten Gains Never Prosper",
+      "videos": 1,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "english",
+      "subjectName": "اللغة الإنجليزية",
+      "lessonId": "english-26",
+      "lessonTitle": "Unit 3: Schools: Different and Alike",
+      "videos": 3,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "english",
+      "subjectName": "اللغة الإنجليزية",
+      "lessonId": "english-27",
+      "lessonTitle": "Unit 4: We are a Family",
+      "videos": 5,
+      "exercises": 0,
+      "registryLinked": 0,
+      "registryBreakdown": {},
+      "status": "PARTIAL"
+    },
+    {
+      "subjectId": "math",
+      "subjectName": "الرياضيات",
+      "lessonId": "math-01",
+      "lessonTitle": "المتتاليات عددية",
+      "videos": 8,
+      "exercises": 4,
+      "registryLinked": 4,
+      "registryBreakdown": {
+        "exercise": 4
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "math",
+      "subjectName": "الرياضيات",
+      "lessonId": "math-02",
+      "lessonTitle": "موافقات (القسمة الإقليدية)",
+      "videos": 8,
+      "exercises": 4,
+      "registryLinked": 4,
+      "registryBreakdown": {
+        "exercise": 4
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "math",
+      "subjectName": "الرياضيات",
+      "lessonId": "math-03",
+      "lessonTitle": "دراسة الدوال العددية",
+      "videos": 8,
+      "exercises": 4,
+      "registryLinked": 4,
+      "registryBreakdown": {
+        "exercise": 4
+      },
+      "status": "FULL"
+    },
+    {
+      "subjectId": "math",
+      "subjectName": "الرياضيات",
+      "lessonId": "math-04",
+      "lessonTitle": "الإحصاء والإحتمالات",
+      "videos": 5,
+      "exercises": 4,
+      "registryLinked": 4,
+      "registryBreakdown": {
+        "exercise": 4
+      },
+      "status": "FULL"
+    }
+  ]
+}

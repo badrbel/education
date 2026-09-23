@@ -1,0 +1,30 @@
+{
+  "threeAsBefore": {
+    "data/registry.js": "73a499ecaab9ee20ad0b83c24560c72e6774c831ce98fe4ca8c4102e4591ddbc",
+    "data/philosophy.js": "d60fbc3e0a5e09a2ec21f7f51f54e78841e7d7942a18b9945c2358a48285e521",
+    "data/arabic.js": "61404cd30c95b714dee3e5a3ccd00f92dd9d8d381f52d543adb9d9dd87b7ca68",
+    "data/history.js": "8d167ad19be0ec740c9d960656dcc4df72d49c14374c6b2183f512e2db2fc314",
+    "data/islamic.js": "876693d991af4638ecde9885e189033f3ad6edeb372731c1b88916e803dcfe88",
+    "data/french.js": "c311910d38b1021aeb6ae46471f088adbcbe9a5e457cbce07b02e7288f7b8980",
+    "data/english.js": "e8d0bd922b1a82e049778adf50f84ad9df7d9d024bd5d9be988d6a96dbff282f",
+    "data/math.js": "58f9ba9d35f02276ba6469a71cec5b75f4a492a4d384f1286864ce6aeabf1b6a"
+  },
+  "threeAsAfter": {
+    "data/registry.js": "7048384acec65b75b5216742838692e2707d702451af9e128c3cae44f987731e",
+    "data/philosophy.js": "d60fbc3e0a5e09a2ec21f7f51f54e78841e7d7942a18b9945c2358a48285e521",
+    "data/arabic.js": "8aaab3a1aa8ea626e9bfcf56376c50611e1d301539cb80087d58f2b217618dd1",
+    "data/history.js": "52a8a5944cdb39ea9e4bd9c6bbf2a515b832306009ceba7fda0f947b75e5f362",
+    "data/islamic.js": "876693d991af4638ecde9885e189033f3ad6edeb372731c1b88916e803dcfe88",
+    "data/french.js": "c311910d38b1021aeb6ae46471f088adbcbe9a5e457cbce07b02e7288f7b8980",
+    "data/english.js": "8fbce8ae79b3228dc252060a6f7f3e92aa14f10efd3cea27bbd04b603843a837",
+    "data/math.js": "58f9ba9d35f02276ba6469a71cec5b75f4a492a4d384f1286864ce6aeabf1b6a"
+  },
+  "fourAmBaseline": {
+    "data/registry_4am.js": "706eab143bb0d1f314eee8920a38c3e35900f0840f973f664ec08310258f9b32",
+    "data/four_am.js": "bc27ff2d0c94626b37140dd93b164d4252878125eda68ecfeb37a8fef0f6e216"
+  },
+  "fourAmCurrent": {
+    "data/registry_4am.js": "706eab143bb0d1f314eee8920a38c3e35900f0840f973f664ec08310258f9b32",
+    "data/four_am.js": "bc27ff2d0c94626b37140dd93b164d4252878125eda68ecfeb37a8fef0f6e216"
+  }
+}

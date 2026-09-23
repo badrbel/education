@@ -1,0 +1,10 @@
+const fs = require('fs');
+const c = fs.readFileSync('data/registry.js', 'utf8');
+const vm = require('vm');
+const s = { window: {} };
+vm.createContext(s);
+vm.runInContext(c, s);
+const reg = s.window.PlatformRegistry;
+const b = Object.keys(reg).filter(k => k.includes('bac'));
+console.log('Total bac keys in 3AS:', b.length);
+console.log('Any generic bac keys without year?', b.filter(k => !/\d{4}/.test(k)));

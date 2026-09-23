@@ -1,0 +1,2080 @@
+{
+  "timestamp": "2026-09-22T23:53:11.740Z",
+  "candidateMappings": [
+    {
+      "resourceId": "philosophy-summary-01",
+      "title": "ملخص مقال قيمة العادة في تحقيق التكيف بين الاتجاهين السلبي والإيجابي",
+      "type": "summary",
+      "subjectId": "philosophy",
+      "currentLessonId": null,
+      "proposedLessonId": "philo_3as_lp_05",
+      "proposedLessonTitle": "العادة والإرادة",
+      "verificationStatus": "MATCH_CONFIRMED",
+      "evidence": "عنوان المورد يتطابق بدقة مع محاور الدرس [العادة والإرادة]"
+    },
+    {
+      "resourceId": "philosophy-summary-02",
+      "title": "ملخص مقال العلاقة بين الدال والمدلول في الفلسفة",
+      "type": "summary",
+      "subjectId": "philosophy",
+      "currentLessonId": null,
+      "proposedLessonId": "philo_3as_lp_02",
+      "proposedLessonTitle": "اللغة والفكر",
+      "verificationStatus": "MATCH_CONFIRMED",
+      "evidence": "عنوان المورد يتطابق بدقة مع محاور الدرس [اللغة والفكر]"
+    },
+    {
+      "resourceId": "philosophy-summary-03",
+      "title": "ملخص مقال اللغة والفكر في مادة الفلسفة",
+      "type": "summary",
+      "subjectId": "philosophy",
+      "currentLessonId": null,
+      "proposedLessonId": "philo_3as_lp_02",
+      "proposedLessonTitle": "اللغة والفكر",
+      "verificationStatus": "MATCH_CONFIRMED",
+      "evidence": "عنوان المورد يتطابق بدقة مع محاور الدرس [اللغة والفكر]"
+    },
+    {
+      "resourceId": "philosophy-rev-1-1",
+      "title": "المراجعة الشاملة لجميع مقالات الفصل الأول (الإدراك، اللغة، اللاشعور، العادة)",
+      "type": "review",
+      "subjectId": "philosophy",
+      "currentLessonId": null,
+      "proposedLessonId": "philo_3as_lp_05",
+      "proposedLessonTitle": "العادة والإرادة",
+      "verificationStatus": "MATCH_CONFIRMED",
+      "evidence": "عنوان المورد يتطابق بدقة مع محاور الدرس [العادة والإرادة]"
+    },
+    {
+      "resourceId": "philosophy-rev-3-1",
+      "title": "العادة والإرادة مقال جاهز مع المخطط والحل النموذجي",
+      "type": "review",
+      "subjectId": "philosophy",
+      "currentLessonId": null,
+      "proposedLessonId": "philo_3as_lp_05",
+      "proposedLessonTitle": "العادة والإرادة",
+      "verificationStatus": "MATCH_CONFIRMED",
+      "evidence": "عنوان المورد يتطابق بدقة مع محاور الدرس [العادة والإرادة]"
+    },
+    {
+      "resourceId": "islamic-rev-2-2",
+      "title": "مراجعة المعاملات المالية الجائزة والربا وأحكامه",
+      "type": "review",
+      "subjectId": "islamic",
+      "currentLessonId": null,
+      "proposedLessonId": "islamic-13",
+      "proposedLessonTitle": "الربا وأحكامه",
+      "verificationStatus": "MATCH_CONFIRMED",
+      "evidence": "عنوان المورد يتطابق بدقة مع محاور الدرس [الربا وأحكامه]"
+    },
+    {
+      "resourceId": "math-rev-2-1",
+      "title": "دراسة الدوال العددية من الصفر (النهايات، المشتقة، جدول التغيرات، والرسم)",
+      "type": "review",
+      "subjectId": "math",
+      "currentLessonId": null,
+      "proposedLessonId": "math-03",
+      "proposedLessonTitle": "دراسة الدوال العددية",
+      "verificationStatus": "MATCH_CONFIRMED",
+      "evidence": "عنوان المورد يتطابق بدقة مع محاور الدرس [دراسة الدوال العددية]"
+    },
+    {
+      "resourceId": "arabic-summary-06",
+      "title": "إعراب المتعدي إلى أكثر من مفعول و وروده في البكالوريا من 2008 إلى 2020 - 3 ثانوي",
+      "type": "summary",
+      "subjectId": "arabic",
+      "currentLessonId": null,
+      "proposedLessonId": "arabic-16",
+      "proposedLessonTitle": "المتعدي إلى أكثر من مفعول",
+      "verificationStatus": "MATCH_CONFIRMED",
+      "evidence": "عنوان المورد يتطابق بدقة مع محاور الدرس [المتعدي إلى أكثر من مفعول]"
+    },
+    {
+      "resourceId": "arabic-rev-1-2",
+      "title": "مراجعة البلاغة التامة: التشبيه، الاستعارة، الكناية، والمجاز المرسل",
+      "type": "review",
+      "subjectId": "arabic",
+      "currentLessonId": null,
+      "proposedLessonId": "arabic-21",
+      "proposedLessonTitle": "الإستعارة",
+      "verificationStatus": "MATCH_CONFIRMED",
+      "evidence": "عنوان المورد يتطابق بدقة مع محاور الدرس [الإستعارة]"
+    }
+  ],
+  "remainingGeneral": [
+    {
+      "id": "philosophy-bac-2026",
+      "title": "موضوع الفلسفة - شهادة البكالوريا 2026",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "philosophy-bac-2025",
+      "title": "موضوع الفلسفة - شهادة البكالوريا 2025",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "philosophy-bac-2024",
+      "title": "موضوع الفلسفة - شهادة البكالوريا 2024",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "philosophy-bac-2023",
+      "title": "موضوع الفلسفة - شهادة البكالوريا 2023",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "philosophy-bac-2022",
+      "title": "موضوع الفلسفة - شهادة البكالوريا 2022",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "philosophy-bac-2021",
+      "title": "موضوع الفلسفة - شهادة البكالوريا 2021",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "philosophy-bac-2020",
+      "title": "موضوع الفلسفة - شهادة البكالوريا 2020",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "philosophy-bac-2019",
+      "title": "موضوع الفلسفة - شهادة البكالوريا 2019",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "philosophy-bac-2018",
+      "title": "موضوع الفلسفة - شهادة البكالوريا 2018",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "philosophy-bac-2017",
+      "title": "موضوع الفلسفة - شهادة البكالوريا 2017",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "philosophy-bac-2016",
+      "title": "موضوع الفلسفة - شهادة البكالوريا 2016",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "philosophy-bac-2015",
+      "title": "موضوع الفلسفة - شهادة البكالوريا 2015",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "philosophy-bac-2014",
+      "title": "موضوع الفلسفة - شهادة البكالوريا 2014",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "philosophy-bac-2013",
+      "title": "موضوع الفلسفة - شهادة البكالوريا 2013",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "philosophy-bac-2012",
+      "title": "موضوع الفلسفة - شهادة البكالوريا 2012",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "philosophy-bac-2011",
+      "title": "موضوع الفلسفة - شهادة البكالوريا 2011",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "philosophy-bac-2010",
+      "title": "موضوع الفلسفة - شهادة البكالوريا 2010",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "philosophy-bac-2009",
+      "title": "موضوع الفلسفة - شهادة البكالوريا 2009",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "philosophy-bac-2008",
+      "title": "موضوع الفلسفة - شهادة البكالوريا 2008",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "philosophy-exam-t1",
+      "title": "امتحانات وفروض الفصل الأول (120 نموذج مع الحل)",
+      "type": "exam",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "philosophy-exam-t2",
+      "title": "امتحانات وفروض الفصل الثاني (100 نموذج مع الحل)",
+      "type": "exam",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "philosophy-exam-t3",
+      "title": "امتحانات وفروض الفصل الثالث (109 نماذج بكالوريا تجريبية)",
+      "type": "exam",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "philosophy-summary-04",
+      "title": "دليل منهجيات المقال الفلسفي الأربع المعتمدة وزارياً للأستاذ عقبة بن نافع",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "philosophy-summary-05",
+      "title": "مطوية كليك الشاملة في الفلسفة - جميع مقالات الشعبة الأدبية للأستاذ قادري رياض",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "philosophy-summary-06",
+      "title": "ملخص مقالات الفصل الأول والثاني شعبة آداب وفلسفة للأستاذ أنور أبو عروة",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "philosophy-rev-2-1",
+      "title": "المنهجية الذهبية لكتابة مقال فلسفي ممتاز (الجدلية واستقصاء بالوضع)",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "islamic-bac-2026",
+      "title": "موضوع العلوم الإسلامية - شهادة البكالوريا 2026",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "islamic-bac-2025",
+      "title": "موضوع العلوم الإسلامية - شهادة البكالوريا 2025",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "islamic-bac-2024",
+      "title": "موضوع العلوم الإسلامية - شهادة البكالوريا 2024",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "islamic-bac-2023",
+      "title": "موضوع العلوم الإسلامية - شهادة البكالوريا 2023",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "islamic-bac-2022",
+      "title": "موضوع العلوم الإسلامية - شهادة البكالوريا 2022",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "islamic-bac-2021",
+      "title": "موضوع العلوم الإسلامية - شهادة البكالوريا 2021",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "islamic-bac-2020",
+      "title": "موضوع العلوم الإسلامية - شهادة البكالوريا 2020",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "islamic-bac-2019",
+      "title": "موضوع العلوم الإسلامية - شهادة البكالوريا 2019",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "islamic-bac-2018",
+      "title": "موضوع العلوم الإسلامية - شهادة البكالوريا 2018",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "islamic-bac-2017",
+      "title": "موضوع العلوم الإسلامية - شهادة البكالوريا 2017",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "islamic-bac-2017-s2",
+      "title": "موضوع العلوم الإسلامية - شهادة البكالوريا 2017 (دورة ثانية)",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "islamic-bac-2016",
+      "title": "موضوع العلوم الإسلامية - شهادة البكالوريا 2016",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "islamic-bac-2015",
+      "title": "موضوع العلوم الإسلامية - شهادة البكالوريا 2015",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "islamic-bac-2014",
+      "title": "موضوع العلوم الإسلامية - شهادة البكالوريا 2014",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "islamic-bac-2013",
+      "title": "موضوع العلوم الإسلامية - شهادة البكالوريا 2013",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "islamic-bac-2012",
+      "title": "موضوع العلوم الإسلامية - شهادة البكالوريا 2012",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "islamic-bac-2011",
+      "title": "موضوع العلوم الإسلامية - شهادة البكالوريا 2011",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "islamic-bac-2010",
+      "title": "موضوع العلوم الإسلامية - شهادة البكالوريا 2010",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "islamic-bac-2009",
+      "title": "موضوع العلوم الإسلامية - شهادة البكالوريا 2009",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "islamic-bac-2008",
+      "title": "موضوع العلوم الإسلامية - شهادة البكالوريا 2008",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "islamic-exam-t1",
+      "title": "امتحانات وفروض الفصل الأول (العلوم الإسلامية)",
+      "type": "exam",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "islamic-exam-t2",
+      "title": "امتحانات وفروض الفصل الثاني (العلوم الإسلامية)",
+      "type": "exam",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "islamic-exam-t3",
+      "title": "امتحانات وفروض الفصل الثالث وبكالوريات تجريبية (العلوم الإسلامية)",
+      "type": "exam",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "islamic-summary-01",
+      "title": "أنواع الحدود و احكامها في مادة العلوم الاسلامية للأستاذة مسلم مليكة - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "islamic-summary-02",
+      "title": "الأجوبة على أسئلة الفهم في التربية الإسلامية للأستاذ دبابغة جمال - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "islamic-summary-03",
+      "title": "الباقة المعلوماتية النظرية الشاملة لدروس العلوم الإسلامية للأستاذ محمد بوقفطان 2024 - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "islamic-summary-04",
+      "title": "الخرائط الذهنية لدروس العلوم الإسلامية باك 2025 للأستاذ الزيتوني سعيد - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "islamic-summary-05",
+      "title": "المختصر الوجيز في العلوم الإسلامية للأستاذ قنون محمد - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "islamic-summary-06",
+      "title": "المعين لدروس مادة العلوم الاسلامية للاستاذ بوحميدي عبد القادر - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "islamic-summary-07",
+      "title": "المغني في مادة العلوم الإسلامية للأستاذ دراي إسلام - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "islamic-summary-08",
+      "title": "الملخص الجامع في العلوم الإسلامية للأستاذ الهاشمي - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "islamic-summary-09",
+      "title": "النصوص المؤطرة للوحدات التعليمية في العلوم الاسلامية - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "islamic-summary-10",
+      "title": "الوافي في العلوم الاسلامية - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "islamic-summary-11",
+      "title": "تجميعية التعريفات الاصطلاحية لدروس العلوم الإسلامية للأستاذ بلال حرزاوي 2021 - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "islamic-summary-12",
+      "title": "تطبيقات حول مقاصد الشريعة في مادة العلوم الاسلامية - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "islamic-summary-13",
+      "title": "تطبيقات حول وسائل تثبيت العقيدة في مادة العلوم الاسلامية - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "islamic-summary-14",
+      "title": "تطبيقات مع الاجابة حول وحدة من وسائل القرآن الكريم في تثبيت العقيدة - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "islamic-summary-15",
+      "title": "جدول لأصحاب الفروض وشروطهم إعداد الأستاذ قنون محمد - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "islamic-rev-1-1",
+      "title": "المراجعة الشاملة لجميع دروس الشريعة الإسلامية - الجزء الأول",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "islamic-rev-1-2",
+      "title": "المراجعة الشاملة للدروس - الجزء الثاني والتطبيقات",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "islamic-rev-1-3",
+      "title": "كيف تجيب على أسئلة الفهم والأسئلة غير المباشرة في البكالوريا",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "islamic-rev-2-1",
+      "title": "المراجعة النهائية لدرس الميراث والمسائل التطبيقية الشاملة",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "islamic-rev-3-1",
+      "title": "منهجية استخراج الأحكام والفوائد الشرعية من الآيات القرآنية",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "islamic-rev-3-2",
+      "title": "حل مواضيع بكالوريا تجريبية مقترحة بقوة مع سلم التنقيط",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-bac-2026",
+      "title": "موضوع التاريخ والجغرافيا - شهادة البكالوريا 2026",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "history-bac-2025",
+      "title": "موضوع التاريخ والجغرافيا - شهادة البكالوريا 2025",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "history-bac-2024",
+      "title": "موضوع التاريخ والجغرافيا - شهادة البكالوريا 2024",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "history-bac-2023",
+      "title": "موضوع التاريخ والجغرافيا - شهادة البكالوريا 2023",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "history-bac-2022",
+      "title": "موضوع التاريخ والجغرافيا - شهادة البكالوريا 2022",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "history-bac-2021",
+      "title": "موضوع التاريخ والجغرافيا - شهادة البكالوريا 2021",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "history-bac-2020",
+      "title": "موضوع التاريخ والجغرافيا - شهادة البكالوريا 2020",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "history-bac-2019",
+      "title": "موضوع التاريخ والجغرافيا - شهادة البكالوريا 2019",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "history-bac-2018",
+      "title": "موضوع التاريخ والجغرافيا - شهادة البكالوريا 2018",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "history-bac-2017",
+      "title": "موضوع التاريخ والجغرافيا - شهادة البكالوريا 2017",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "history-bac-2017-s2",
+      "title": "موضوع التاريخ والجغرافيا - شهادة البكالوريا 2017 (دورة ثانية)",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "history-bac-2016",
+      "title": "موضوع التاريخ والجغرافيا - شهادة البكالوريا 2016",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "history-bac-2015",
+      "title": "موضوع التاريخ والجغرافيا - شهادة البكالوريا 2015",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "history-bac-2014",
+      "title": "موضوع التاريخ والجغرافيا - شهادة البكالوريا 2014",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "history-bac-2013",
+      "title": "موضوع التاريخ والجغرافيا - شهادة البكالوريا 2013",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "history-bac-2012",
+      "title": "موضوع التاريخ والجغرافيا - شهادة البكالوريا 2012",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "history-bac-2011",
+      "title": "موضوع التاريخ والجغرافيا - شهادة البكالوريا 2011",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "history-bac-2010",
+      "title": "موضوع التاريخ والجغرافيا - شهادة البكالوريا 2010",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "history-bac-2009",
+      "title": "موضوع التاريخ والجغرافيا - شهادة البكالوريا 2009",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "history-bac-2008",
+      "title": "موضوع التاريخ والجغرافيا - شهادة البكالوريا 2008",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "history-exam-t1",
+      "title": "امتحانات وفروض الفصل الأول (التاريخ والجغرافيا)",
+      "type": "exam",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "history-exam-t2",
+      "title": "امتحانات وفروض الفصل الثاني (التاريخ والجغرافيا)",
+      "type": "exam",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "history-exam-t3",
+      "title": "امتحانات وفروض الفصل الثالث وبكالوريات تجريبية (التاريخ والجغرافيا)",
+      "type": "exam",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "history-summary-01",
+      "title": "المختصر المفيد في مادة التاريخ من صفحة عقبة بن نافع - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-summary-02",
+      "title": "أسئلة تقويمية للوحدة 01 في مادة التاريخ إعداد الأستاذ شكوة براهيم - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-summary-03",
+      "title": "أسئلة تقويمية للوحدة 02 في مادة التاريخ إعداد الأستاذ شكوة براهيم - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-summary-04",
+      "title": "أسئلة تقويمية متنوعة في مادة التاريخ الوحدة الاولى للاستاذ شكوة براهيم - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-summary-05",
+      "title": "أهم الشخصيات و التواريخ المتداولة في البكالوريا للاستاذ بورنان عمار - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-summary-06",
+      "title": "أهم الشخصيات والأحداث التاريخية ومصطلحات التاريخ و الجغرافيا للاستاذ بالضياف سليم - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-summary-07",
+      "title": "أهم الصطلحات في التاريخ لتلاميذ البكالوريا للأستاذ عمار بورنان - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-summary-08",
+      "title": "أهم تواريخ الوحدة الأولى في مادة التاريخ للاستاذ بولجاج خالد - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-summary-09",
+      "title": "الأسئلة المتكررة في البكالوريا في مادة الجغرافيا - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-summary-10",
+      "title": "الاسئلة غير المباشرة الخاصة بالوحدة 01 في التاريخ للاستاذة لحلوح - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-summary-11",
+      "title": "الشخصيات السوفياتية و الأمريكية في مادة التاريخ للاستاذ بورنان عمار - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-summary-12",
+      "title": "المراجعة السريعة والعلامة الكاملة في التاريخ للأستاذ محمد لعروق - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-summary-13",
+      "title": "المراجعة النهائية في التاريخ والجغرافيا جميع الشعب للأستاذ بورنان عمار - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-summary-14",
+      "title": "المساعدة في التاريخ والجغرافيا، مصطلحات، شخصيات، أحداث للأستاذ طاهر حفوظة - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-summary-15",
+      "title": "اهم الخرائط في الوحدة 01 في الجغرافيا للاستاذة بسكري - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-rev-1-1",
+      "title": "مراجعة شاملة في التاريخ و الجغرافيا",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-rev-1-2",
+      "title": "المراجعة النهائية 1 : الحرب الباردة",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-rev-1-3",
+      "title": "المراجعة النهائية 2 : الثورة الجزائرية",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-rev-1-4",
+      "title": "مخطط شامل لدروس : التعايش السلمي + الإنفراج الدولي + حركة عدم الإنحياز",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-rev-1-5",
+      "title": "مراجعة شاملة للجغرافيا - مقترحات و منهجية",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-rev-1-6",
+      "title": "مراجعة برنامج الجغرافيا في 30 دقيقة",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-rev-1-7",
+      "title": "أكبر مراجعة في الثورة الجزائرية مع اسئلة البكالوريا المتوقعة",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-rev-2-1",
+      "title": "مراجعة شاملة في الإجتماعيات مع الأستاذ أمين قرازم",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-rev-2-2",
+      "title": "للحصول على 20/20 في مادة التاريخ و الجغرافيا تجنب الوقوع في 7 اخطاء",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-rev-2-3",
+      "title": "كيفية التعليق على الجدول في الجغرافيا في 5 دقائق",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-rev-2-4",
+      "title": "تعلم رسم الاعمدة البيانية وتجنب هذه الاخطاء",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-rev-3-1",
+      "title": "الوحدة الأولى في التاريخ كاملة بسهولة",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-rev-3-2",
+      "title": "الوحدة الثانية في التاريخ كاملة بسهولة",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-rev-3-3",
+      "title": "ملخص رائع حول الحرب الباردة",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-rev-3-4",
+      "title": "المنحنى البياني في التاريخ و الجغرافيا",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-rev-3-5",
+      "title": "الأعمدة البيانية و المدرج التكراري",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-rev-3-6",
+      "title": "جميع أسئلة خرائط الجغرافيا تحديد الدول و التوقيع و الإجابة بالمنهجية",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-rev-4-1",
+      "title": "جميع دروس مادة التاريخ",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-rev-4-2",
+      "title": "جميع دروس مادة الجغرافيا",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-rev-4-3",
+      "title": "كيف تعلق باحتراف على الجداول والرسوم؟",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-rev-4-4",
+      "title": "طريقة رسم الأعمدة",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-rev-4-5",
+      "title": "الطريقة الصحيحة والنموذجية لكتابة المقال",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-rev-4-6",
+      "title": "الشخصيات السوفياتية",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-rev-4-7",
+      "title": "شخصيات الثورة",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-rev-4-8",
+      "title": "مصطلحات الثورة الجزائرية",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-rev-4-9",
+      "title": "جميع الخرائط المقترحة في الجغرافيا",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-rev-5-1",
+      "title": "أسرار منهجية الإجابة ||العلامة الكاملة في التاريخ",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-rev-5-2",
+      "title": "أقوى مراجعة في الجغرافيا-الأسئلة الإستنتاجية",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-rev-5-3",
+      "title": "التعليق في الجغرافيا",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-rev-5-4",
+      "title": "منهجية الأعمدة",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "history-rev-5-5",
+      "title": "أسئلة متوقعة جدا فالباكلوريا",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "math-bac-2026",
+      "title": "موضوع الرياضيات - شهادة البكالوريا 2026",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "math-bac-2025",
+      "title": "موضوع الرياضيات - شهادة البكالوريا 2025",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "math-bac-2024",
+      "title": "موضوع الرياضيات - شهادة البكالوريا 2024",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "math-bac-2023",
+      "title": "موضوع الرياضيات - شهادة البكالوريا 2023",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "math-bac-2022",
+      "title": "موضوع الرياضيات - شهادة البكالوريا 2022",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "math-bac-2021",
+      "title": "موضوع الرياضيات - شهادة البكالوريا 2021",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "math-bac-2020",
+      "title": "موضوع الرياضيات - شهادة البكالوريا 2020",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "math-bac-2019",
+      "title": "موضوع الرياضيات - شهادة البكالوريا 2019",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "math-bac-2018",
+      "title": "موضوع الرياضيات - شهادة البكالوريا 2018",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "math-bac-2017",
+      "title": "موضوع الرياضيات - شهادة البكالوريا 2017",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "math-bac-2017-s2",
+      "title": "موضوع الرياضيات - شهادة البكالوريا 2017 (دورة ثانية)",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "math-bac-2016",
+      "title": "موضوع الرياضيات - شهادة البكالوريا 2016",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "math-bac-2015",
+      "title": "موضوع الرياضيات - شهادة البكالوريا 2015",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "math-bac-2014",
+      "title": "موضوع الرياضيات - شهادة البكالوريا 2014",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "math-bac-2013",
+      "title": "موضوع الرياضيات - شهادة البكالوريا 2013",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "math-bac-2012",
+      "title": "موضوع الرياضيات - شهادة البكالوريا 2012",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "math-bac-2011",
+      "title": "موضوع الرياضيات - شهادة البكالوريا 2011",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "math-bac-2010",
+      "title": "موضوع الرياضيات - شهادة البكالوريا 2010",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "math-bac-2009",
+      "title": "موضوع الرياضيات - شهادة البكالوريا 2009",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "math-bac-2008",
+      "title": "موضوع الرياضيات - شهادة البكالوريا 2008",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "math-exam-t1",
+      "title": "امتحانات وفروض الفصل الأول (الرياضيات)",
+      "type": "exam",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "math-exam-t2",
+      "title": "امتحانات وفروض الفصل الثاني (الرياضيات)",
+      "type": "exam",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "math-exam-t3",
+      "title": "امتحانات وفروض الفصل الثالث وبكالوريات تجريبية (الرياضيات)",
+      "type": "exam",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "math-summary-01",
+      "title": "مجلة الرائد في الریاضیات - تمارین الدوال في البكالوریا بین یدیك 2021 - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "math-summary-02",
+      "title": "50 نهاية معقدة مع الحل للأستاذ شعبان أسامة - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "math-summary-03",
+      "title": "88 تمرين في المتتاليات العددية من إعداد الأستاذ مرنيز وليد - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "math-summary-04",
+      "title": "أسئلة الدوال الأصلية و الحساب التكاملي في البكالوريا مع الحل للأستاذ خالد بخاخشة - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "math-summary-05",
+      "title": "أسئلة الدوال الاصلية و الحساب التكاملي في الباكالوريا مع حلولها للأستاذ خالد بخشاشة - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "math-summary-06",
+      "title": "أسئلة متنوعة شائعة في دراسة الدوال والإجابات عليها للاستاذ قويسم ابراهيم الخليل - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "math-summary-07",
+      "title": "أفضل باقة معلوماتية في الدوال نحو البكالوريا للأستاذ مزازقة - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "math-summary-08",
+      "title": "أفكار فيديوهات الأستاذ نور الدين في الرياضيات - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "math-summary-09",
+      "title": "أهم الأسئلة المطروحة عن الرسم البياني إعداد الأستاذ عماد الدين تاني - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "math-summary-10",
+      "title": "اختبارات بكالوريا مع الحل المفصل في مادة الرياضيات للأستاذ بوقفة عبد الفتاح - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "math-summary-11",
+      "title": "الـحل الـمفصل لسلسلـة الـدوال الأسية للأستاذ بوقـفة عبد الـفتاح - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "math-summary-12",
+      "title": "الأسئلة الشائعة في دراسة الدوال وكيفية الاجابة عليها - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "math-summary-13",
+      "title": "الطريق إلى البكالوريا في الرياضيات للأستاذ مرنيز وليد - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "math-summary-14",
+      "title": "الطريقة الصحيحة للمراجعة وتحضير البكالوريا من إعداد الأستاذ ساعد - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "math-summary-15",
+      "title": "العبقري في الرياضيات (الإحصاء) شعبة ت.إ للأستاذ بوعزة مصطفى - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "math-rev-1-1",
+      "title": "المراجعة الشاملة للمتتاليات العددية (من الصفر حتى حل مسائل البكالوريا)",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "math-rev-1-2",
+      "title": "المراجعة الشاملة للموافقات في زاد والقسمة الإقليدية (شعبة آداب وفلسفة)",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "math-rev-2-2",
+      "title": "أهم 20 سؤالاً يتكرر في بكالوريا الرياضيات لشعبة آداب وفلسفة",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "math-rev-3-1",
+      "title": "المراجعة النهائية للإحصاء والاحتمالات ونماذج الأسئلة الوزارية",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "math-rev-3-2",
+      "title": "حل موضوع بكالوريا تجريبي شامل مع سلم التنقيط المعتمد",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "arabic-bac-2026",
+      "title": "موضوع اللغة العربية - شهادة البكالوريا 2026",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "arabic-bac-2025",
+      "title": "موضوع اللغة العربية - شهادة البكالوريا 2025",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "arabic-bac-2024",
+      "title": "موضوع اللغة العربية - شهادة البكالوريا 2024",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "arabic-bac-2023",
+      "title": "موضوع اللغة العربية - شهادة البكالوريا 2023",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "arabic-bac-2022",
+      "title": "موضوع اللغة العربية - شهادة البكالوريا 2022",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "arabic-bac-2021",
+      "title": "موضوع اللغة العربية - شهادة البكالوريا 2021",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "arabic-bac-2020",
+      "title": "موضوع اللغة العربية - شهادة البكالوريا 2020",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "arabic-bac-2019",
+      "title": "موضوع اللغة العربية - شهادة البكالوريا 2019",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "arabic-bac-2018",
+      "title": "موضوع اللغة العربية - شهادة البكالوريا 2018",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "arabic-bac-2017",
+      "title": "موضوع اللغة العربية - شهادة البكالوريا 2017",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "arabic-bac-2017-s2",
+      "title": "موضوع اللغة العربية - شهادة البكالوريا 2017 (دورة ثانية)",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "arabic-bac-2016",
+      "title": "موضوع اللغة العربية - شهادة البكالوريا 2016",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "arabic-bac-2015",
+      "title": "موضوع اللغة العربية - شهادة البكالوريا 2015",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "arabic-bac-2014",
+      "title": "موضوع اللغة العربية - شهادة البكالوريا 2014",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "arabic-bac-2013",
+      "title": "موضوع اللغة العربية - شهادة البكالوريا 2013",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "arabic-bac-2012",
+      "title": "موضوع اللغة العربية - شهادة البكالوريا 2012",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "arabic-bac-2011",
+      "title": "موضوع اللغة العربية - شهادة البكالوريا 2011",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "arabic-bac-2010",
+      "title": "موضوع اللغة العربية - شهادة البكالوريا 2010",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "arabic-bac-2009",
+      "title": "موضوع اللغة العربية - شهادة البكالوريا 2009",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "arabic-bac-2008",
+      "title": "موضوع اللغة العربية - شهادة البكالوريا 2008",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "arabic-exam-t1",
+      "title": "امتحانات وفروض الفصل الأول (اللغة العربية)",
+      "type": "exam",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "arabic-exam-t2",
+      "title": "امتحانات وفروض الفصل الثاني (اللغة العربية)",
+      "type": "exam",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "arabic-exam-t3",
+      "title": "امتحانات وفروض الفصل الثالث وبكالوريات تجريبية (اللغة العربية)",
+      "type": "exam",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "arabic-summary-01",
+      "title": "أفضل ملخص في اللغة العربية وآدابها للأستاذ عمر قوادري - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "arabic-summary-02",
+      "title": "أنماط النصوص و مؤشراتها في مادة اللغة العربية - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "arabic-summary-03",
+      "title": "أهم أسئلة الللغة العربية في البكالوريا (الجزء 01) للأستاذ زكرياء خالد - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "arabic-summary-04",
+      "title": "إعراب إذا إذًا إذن إذْ حينئذٍ في مادة اللغة العربية و آدابها كل الشعب - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "arabic-summary-05",
+      "title": "إعراب الجمل الواردة في بكالوريات اللغة العربية من 2008 - 2021 شعب علمية - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "arabic-summary-07",
+      "title": "إعراب المفردات الواردة في البكالوريا من 2008 إلى 2020 شعبة اللغات الاجنبية - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "arabic-summary-08",
+      "title": "الأسئلة المتكررة في البكالوريا لمادة اللغة العربية وآدابها - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "arabic-summary-09",
+      "title": "الأسئلة المتكررة في الغة العربية وإجاباتها إعداد الأستاذ كاتب أمين - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "arabic-summary-10",
+      "title": "الكافي في مادة اللغة العربية لطلاب البكالوريا لجميع الشعب - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "arabic-summary-11",
+      "title": "المراجعة النهائية لوحدة شعر المنفى في العصر الحديث للأستاذ منصوري مصطفى - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "arabic-summary-12",
+      "title": "المراجعة اﻟﻧﮭﺎﺋﯾﺔ ﻟﻣﺎدة اﻟﻠﻐﺔ اﻟﻌرﺑﯾﺔ و آداﺑﮭﺎ الشعب العلمية للاستاذ عيدي - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "arabic-summary-13",
+      "title": "المفكرة الأدبية في مادة اللغة العربية إعداد الاستاذ أحمد خرفي - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "arabic-summary-14",
+      "title": "بلاغة المحسنات البديعية من إعداد الأستاذ زكرياء خالد - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "arabic-summary-15",
+      "title": "تحضير دروس القواعد و البلاغة و الوضعيات المستهدفة في اللغة العربية - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "arabic-rev-1-1",
+      "title": "المراجعة الشاملة لجميع قواعد الإعراب (إعراب الجمل والمفردات)",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "arabic-rev-2-1",
+      "title": "المراجعة النهائية في البناء الفكري ونقد النصوص الشعرية والنثرية",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "arabic-rev-2-2",
+      "title": "منهجية الحصول على العلامة الكاملة في مادة اللغة العربية للبكالوريا",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "arabic-rev-3-1",
+      "title": "ملخص علم العروض وتقطيع البحور الشعرية المقررة (الوافر، الرمل، الرجز، المتقارب)",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "arabic-rev-3-2",
+      "title": "حل نماذج بكالوريا تجريبية في الشعر التعليمي والمهجري وظاهرة الالتزام",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "french-bac-2026",
+      "title": "موضوع اللغة الفرنسية - شهادة البكالوريا 2026",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "french-bac-2025",
+      "title": "موضوع اللغة الفرنسية - شهادة البكالوريا 2025",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "french-bac-2024",
+      "title": "موضوع اللغة الفرنسية - شهادة البكالوريا 2024",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "french-bac-2023",
+      "title": "موضوع اللغة الفرنسية - شهادة البكالوريا 2023",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "french-bac-2022",
+      "title": "موضوع اللغة الفرنسية - شهادة البكالوريا 2022",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "french-bac-2021",
+      "title": "موضوع اللغة الفرنسية - شهادة البكالوريا 2021",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "french-bac-2020",
+      "title": "موضوع اللغة الفرنسية - شهادة البكالوريا 2020",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "french-bac-2019",
+      "title": "موضوع اللغة الفرنسية - شهادة البكالوريا 2019",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "french-bac-2018",
+      "title": "موضوع اللغة الفرنسية - شهادة البكالوريا 2018",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "french-bac-2017",
+      "title": "موضوع اللغة الفرنسية - شهادة البكالوريا 2017",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "french-bac-2017-s2",
+      "title": "موضوع اللغة الفرنسية - شهادة البكالوريا 2017 (دورة ثانية)",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "french-bac-2016",
+      "title": "موضوع اللغة الفرنسية - شهادة البكالوريا 2016",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "french-bac-2015",
+      "title": "موضوع اللغة الفرنسية - شهادة البكالوريا 2015",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "french-bac-2014",
+      "title": "موضوع اللغة الفرنسية - شهادة البكالوريا 2014",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "french-bac-2013",
+      "title": "موضوع اللغة الفرنسية - شهادة البكالوريا 2013",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "french-bac-2012",
+      "title": "موضوع اللغة الفرنسية - شهادة البكالوريا 2012",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "french-bac-2011",
+      "title": "موضوع اللغة الفرنسية - شهادة البكالوريا 2011",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "french-bac-2010",
+      "title": "موضوع اللغة الفرنسية - شهادة البكالوريا 2010",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "french-bac-2009",
+      "title": "موضوع اللغة الفرنسية - شهادة البكالوريا 2009",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "french-bac-2008",
+      "title": "موضوع اللغة الفرنسية - شهادة البكالوريا 2008",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "french-exam-t1",
+      "title": "امتحانات وفروض الفصل الأول (اللغة الفرنسية)",
+      "type": "exam",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "french-exam-t2",
+      "title": "امتحانات وفروض الفصل الثاني (اللغة الفرنسية)",
+      "type": "exam",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "french-exam-t3",
+      "title": "امتحانات وفروض الفصل الثالث وبكالوريات تجريبية (اللغة الفرنسية)",
+      "type": "exam",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "french-summary-01",
+      "title": "10 مواضيع تحضيرية مرفقة بالحلول في اللغة الفرنسية للشعب العلمية - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "french-summary-02",
+      "title": "AD LITTERAM - Maitriser la langue française dans toute sa puissance - 3AS",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "french-summary-03",
+      "title": "L’essentiel des cours de français - Toutes les filières - B. LALOUANI - 3AS",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "french-summary-04",
+      "title": "La révision finale de français pour préparer le BAC - 3AS",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "french-summary-05",
+      "title": "Les Essentiels Bac - Lycée le Colonel Mohamed Chaâbani - 3AS",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "french-summary-06",
+      "title": "أسئلة متداولة في اللغة الفرنسية مع أجوبتها - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "french-summary-07",
+      "title": "الأسئلة الشائعة في امتحان اللغة الفرنسية في شهادة البكالوريا جميع الشعب - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "french-summary-08",
+      "title": "بطاقة تقنيات تلخيص النص في اللغة الفرنسية للأستاذ جغبال سيد علي - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "french-summary-09",
+      "title": "بطاقة شرح النص التاريخي في اللغة الفرنسية للأستاذ جغبال سيد علي - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "french-summary-10",
+      "title": "مجموعة مواضيع متنوعة في اللغة الفرنسية - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "french-summary-11",
+      "title": "مخططات لتسهيل فهم و حفظ النص التاريخي في اللغة الفرنسية للأستاذ أسامة - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "french-summary-12",
+      "title": "مراجعة عامة في اللغة الفرنسية للأستاذ بدر الدين - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "french-summary-13",
+      "title": "ملخص الأسئلة الأكثر تداولا في بكالوريا اللغة الفرنسية للأستاذ باشا محمد - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "french-summary-14",
+      "title": "ملخص اللغة الفرنسية جميع الشعب - 3 ثانوي - Projet 1 Le texte d&#039;Histoire Prof Ouss",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "french-summary-15",
+      "title": "ملخص اللغة الفرنسية جميع الشعب من إعداد الأستاذ نوري منير - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "french-rev-1-1",
+      "title": "المراجعة الشاملة للثلاثي الأول texte historique",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "french-rev-1-2",
+      "title": "مراجعة شاملة للثلاثي الثاني",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "french-rev-1-3",
+      "title": "المراجعة الشاملة للفرنسية compte rendu",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "french-rev-1-4",
+      "title": "المراجعة الشاملة للفرنسية conditionnal",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "french-rev-2-1",
+      "title": "مراجعة شاملة في النص التاريخي | Le texte d'Histoire",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "french-rev-2-2",
+      "title": "مراجعة شاملة لمكتسبات اللغة الفرنسية لبكالوريأ",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "french-rev-2-3",
+      "title": "مراجعة شاملة في النص الحجاجي | Le texte argumentatif",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "french-rev-2-4",
+      "title": "مراجعة شاملة في اللغة الفرنسية لتحضير البكالوريا التجريبية",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-bac-2026",
+      "title": "موضوع اللغة الإنجليزية - شهادة البكالوريا 2026",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "english-bac-2025",
+      "title": "موضوع اللغة الإنجليزية - شهادة البكالوريا 2025",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "english-bac-2024",
+      "title": "موضوع اللغة الإنجليزية - شهادة البكالوريا 2024",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "english-bac-2023",
+      "title": "موضوع اللغة الإنجليزية - شهادة البكالوريا 2023",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "english-bac-2022",
+      "title": "موضوع اللغة الإنجليزية - شهادة البكالوريا 2022",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "english-bac-2021",
+      "title": "موضوع اللغة الإنجليزية - شهادة البكالوريا 2021",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "english-bac-2020",
+      "title": "موضوع اللغة الإنجليزية - شهادة البكالوريا 2020",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "english-bac-2019",
+      "title": "موضوع اللغة الإنجليزية - شهادة البكالوريا 2019",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "english-bac-2018",
+      "title": "موضوع اللغة الإنجليزية - شهادة البكالوريا 2018",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "english-bac-2017",
+      "title": "موضوع اللغة الإنجليزية - شهادة البكالوريا 2017",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "english-bac-2017-s2",
+      "title": "موضوع اللغة الإنجليزية - شهادة البكالوريا 2017 (دورة ثانية)",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "english-bac-2016",
+      "title": "موضوع اللغة الإنجليزية - شهادة البكالوريا 2016",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "english-bac-2015",
+      "title": "موضوع اللغة الإنجليزية - شهادة البكالوريا 2015",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "english-bac-2014",
+      "title": "موضوع اللغة الإنجليزية - شهادة البكالوريا 2014",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "english-bac-2013",
+      "title": "موضوع اللغة الإنجليزية - شهادة البكالوريا 2013",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "english-bac-2012",
+      "title": "موضوع اللغة الإنجليزية - شهادة البكالوريا 2012",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "english-bac-2011",
+      "title": "موضوع اللغة الإنجليزية - شهادة البكالوريا 2011",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "english-bac-2010",
+      "title": "موضوع اللغة الإنجليزية - شهادة البكالوريا 2010",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "english-bac-2009",
+      "title": "موضوع اللغة الإنجليزية - شهادة البكالوريا 2009",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "english-bac-2008",
+      "title": "موضوع اللغة الإنجليزية - شهادة البكالوريا 2008",
+      "type": "bac",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "english-exam-t1",
+      "title": "امتحانات وفروض الفصل الأول (اللغة الإنجليزية)",
+      "type": "exam",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "english-exam-t2",
+      "title": "امتحانات وفروض الفصل الثاني (اللغة الإنجليزية)",
+      "type": "exam",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "english-exam-t3",
+      "title": "امتحانات وفروض الفصل الثالث وبكالوريات تجريبية (اللغة الإنجليزية)",
+      "type": "exam",
+      "reason": "EXAM_BAC_SUBJECT_LEVEL"
+    },
+    {
+      "id": "english-summary-01",
+      "title": "General english revision for 3rd year classes litterary stream- 3AS",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-summary-02",
+      "title": "General english revision for 3rd year classes scientific stream - 3AS",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-summary-03",
+      "title": "Make this day amazing - BAC Motivation - 3AS",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-summary-04",
+      "title": "Ms. Rayhan - English Lesson 01: Ago - 3AS",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-summary-05",
+      "title": "Ms. Rayhan - English Lesson 02: Past perfect - 3AS",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-summary-06",
+      "title": "Ms. Rayhan - English Lesson 03: Providing that / as long as - 3AS",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-summary-07",
+      "title": "Ms. Rayhan - English Lesson 04 Expressin wishes - 3AS",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-summary-08",
+      "title": "Ms. Rayhan - English Lesson 05: Part 01 - Past habits - 3AS",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-summary-09",
+      "title": "Ms. Rayhan - English Lesson 05: Part 02 - Past abilities - 3AS",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-summary-10",
+      "title": "Ms. Rayhan - English Lesson 05: Part 03 - Obligation in the past - 3AS",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-summary-11",
+      "title": "Revision of english by eacher Bakir Ghassan Mohammed Ali - 3AS",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-summary-12",
+      "title": "Summary of english lessons, Teacher Boulaouad Meriem - 3ASL",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-summary-13",
+      "title": "Summary of english lessons, Teacher Boulaouad Meriem - 3ASS",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-summary-14",
+      "title": "باقة تحتوي على 06 مواضيع لتحضير البكالوريا مع الحل في اللغة الإنجليزية - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-summary-15",
+      "title": "باقة تحتوي على 15 موضوع لتحضير البكالوريا مع الحل في اللغة الإنجليزية - 3 ثانوي",
+      "type": "summary",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-rev-1-1",
+      "title": "المراجعة الشاملة في الإنجليزية للفصل الأول",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-rev-1-2",
+      "title": "مراجعة شاملة من الصفر",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-rev-1-3",
+      "title": "المراجعة الشاملة في الإنجليزية : الفصل الثاني",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-rev-1-4",
+      "title": "Final Revision",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-rev-2-1",
+      "title": "المراجعة النهائية الشاملة في الانجليزية",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-rev-2-2",
+      "title": "كيفية الإجابة على أسئلة البناء الفكري في البكالوريا اللغة الإنجليزية",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-rev-2-3",
+      "title": "المراجعة النهائية الشاملة في الانجليزية",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-rev-2-4",
+      "title": "مراجعة نهائية شاملة",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-rev-3-1",
+      "title": "المراجعة الشاملة للثلاثي الأول في الإنجليزية للشعب العلمية و الثاني للشعب الادبية ETHICS IN BUSINESS",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-rev-3-2",
+      "title": "مراجعة شاملة في الإنجليزية تحضيرا لاختبارات الثلاثي الأول",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-rev-3-3",
+      "title": "المراجعة الشاملة النهائية للانجليزية",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-rev-4-1",
+      "title": "General Revision For BAC",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-rev-4-2",
+      "title": "Ethics In Business",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-rev-4-3",
+      "title": "مراجعة شاااملة Pronunciation Of Final (S)",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-rev-4-4",
+      "title": "الوضعيات الإدماجية",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-rev-5-2",
+      "title": "مراجعة شاملة انجليزية / الجزء1/",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-rev-5-3",
+      "title": "مراجعة شاملة انجليزية /الجزء2/",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-rev-6-1",
+      "title": "شرح للمنهجية الصحيحة لكتابة الوضعية /part01/",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-rev-6-2",
+      "title": "شرح للمنهجية الصحيحة لكتابة الوضعيات part02",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-rev-6-3",
+      "title": "شرح للمنهجية الصحيحة لكتابة الوضعياتpart 03",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    },
+    {
+      "id": "english-rev-6-4",
+      "title": "مقدمة+خاتمة لكتابة وضعيات لجميع الوحدات المقررة",
+      "type": "review",
+      "reason": "GENERAL_SUBJECT_LEVEL_RESOURCE"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "data/registry.js": "73a499ecaab9ee20ad0b83c24560c72e6774c831ce98fe4ca8c4102e4591ddbc",
+  "data/math.js": "58f9ba9d35f02276ba6469a71cec5b75f4a492a4d384f1286864ce6aeabf1b6a",
+  "data/arabic.js": "61404cd30c95b714dee3e5a3ccd00f92dd9d8d381f52d543adb9d9dd87b7ca68",
+  "data/french.js": "c311910d38b1021aeb6ae46471f088adbcbe9a5e457cbce07b02e7288f7b8980",
+  "data/english.js": "e8d0bd922b1a82e049778adf50f84ad9df7d9d024bd5d9be988d6a96dbff282f",
+  "data/history.js": "8d167ad19be0ec740c9d960656dcc4df72d49c14374c6b2183f512e2db2fc314",
+  "data/islamic.js": "876693d991af4638ecde9885e189033f3ad6edeb372731c1b88916e803dcfe88"
+}
